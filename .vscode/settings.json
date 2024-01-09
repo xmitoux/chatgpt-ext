@@ -12,9 +12,12 @@
     "[vue]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "[json][jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
     "editor.formatOnType": true,
     "editor.formatOnSave": true,
-    
+
     // Volar 設定
-    "vue.autoInsert.dotValue": true,
+    "vue.autoInsert.dotValue": true
 }
