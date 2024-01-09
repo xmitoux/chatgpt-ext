@@ -23,9 +23,9 @@ pnpm run dev
 ## VSCode設定
 - エディタにはVSCodeを使用します。
 - 以下の拡張機能のインストールが必要です。
-  - Volar
-  - ESLint
-  - Prettier
+  - Volar: Vueのコーディングに必須
+  - ESLint: JS, TS用のlinter
+  - Prettier: コードフォーマッタ
 <details>
 <summary>Vite Orginal README</summary>
 
