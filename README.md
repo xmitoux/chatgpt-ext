@@ -11,7 +11,7 @@ pnpm run dev
 ```
 ## デプロイ
 - [Vercel](https://vercel.com/)にデプロイすることで簡単にWeb公開が可能です。
-- このリポジトリをデプロイしたページ → https://vue3-template-psi.vercel.app/
+- このリポジトリをデプロイしたページ → [https://vue3-template-psi.vercel.app/](https://vue3-template-xmitoux.vercel.app/)
 
 ### 手順
 1. Vercelに登録し、GitHubアカウントを連携します。
