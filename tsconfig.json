@@ -19,11 +19,12 @@
         "noUnusedLocals": true,
         "noUnusedParameters": true,
         "noFallthroughCasesInSwitch": true,
-        
+        "typeRoots": ["./node_modules/@types", "./types"],
+
         "baseUrl": ".",
         "paths": {
             "@/*": ["./src/*"]
-        },
+        }
     },
     "include": ["src/**/*.ts", "src/**/*.tsx", "src/**/*.vue"],
     "references": [{ "path": "./tsconfig.node.json" }]
